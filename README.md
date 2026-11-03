@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><img src="./generated/profile-heading.svg" alt="👋 Hi there! I'm Emma" width="440" height="48" /></p>
+<p><img src="./generated/profile-heading.svg" alt="👋 Hi there! I'm Shuyang" width="500" height="48" /></p>
 
 [![GitHub Profile](https://img.shields.io/badge/GitHub_Profile-shuyangzhang--sde-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shuyangzhang-sde)
 [![GitHub.io Website](https://img.shields.io/badge/GitHub.io_Website-shuyangzhang--sde.github.io-238636?style=for-the-badge&logo=github&logoColor=white)](https://shuyangzhang-sde.github.io/)
