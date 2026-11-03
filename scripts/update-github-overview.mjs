@@ -1,12 +1,12 @@
 import { mkdir, writeFile } from "node:fs/promises";
 
-const username = "emmazhang-ai-sde";
+const username = "shuyangzhang-sde";
 const displayName = "Shuyang Zhang";
 const outputPath = new URL("../generated/github-statistics.svg", import.meta.url);
 
 const headers = {
   accept: "application/vnd.github+json",
-  "user-agent": "emmazhang-ai-sde-profile-readme",
+  "user-agent": "shuyangzhang-sde-profile-readme",
 };
 
 if (process.env.GITHUB_TOKEN) {
