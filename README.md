@@ -12,16 +12,17 @@
 
 I'm a software engineer and builder studying **Mathematics** with a **Computer Science minor** at the University of Illinois Urbana-Champaign.
 
-I enjoy building products at the intersection of **AI, backend systems, and full-stack development**, especially projects involving real-time systems, AI agents, distributed architectures, and developer workflows.
+I enjoy building products at the intersection of **AI, backend systems, and full-stack development**, especially projects involving distributed architectures, AI agents, real-time systems, and developer workflows.
 
 <br />
 
 ### 🌱 What I'm Interested In
 
-- Backend and distributed systems
-- Applied AI and agentic systems
-- Real-time communication systems
-- Cloud infrastructure and scalable applications
+- Backend & Distributed Systems
+- Cloud Infrastructure (AWS, Kubernetes, Docker)
+- AI Agents & Retrieval-Augmented Generation (RAG)
+- Full-Stack Development
+- Front-End Development (React, TypeScript, JavaScript)
 - Building products end-to-end, from architecture to deployment
 
 <br />
@@ -31,7 +32,8 @@ I enjoy building products at the intersection of **AI, backend systems, and full
 | Project | What it does | Stack / Focus |
 |---|---|---|
 | **AI Voice Agent Platform** | RAG-powered voice sales agent handling **1,000+** calls/month for **20+** reps, with human handoff and post-call analysis. Cut voice latency by **40%** to under **80ms** and resolved **65%** of calls autonomously. | RAG · LiveKit · Haystack · Qdrant · Cohere · Claude Code · Codex |
-| **UIUC Housing Search Platform**<br>[Live](https://illinirent.com/) \| [GitHub](https://github.com/shuyangzhang-sde/uiuc-housing-serach-website) | Housing search platform serving **500** students comparing **1,100+** Champaign-Urbana floor plans by price per bedroom. Unified **580+** properties into one dataset with map-based search and structured listings. | Next.js · FastAPI · Supabase · MapLibre · Playwright · SQLite · Vercel · Railway · GitHub Actions · CI/CD |
+| **UIUC Housing Search Platform**<br>[Live](https://illinirent.com/) \| [GitHub](https://github.com/shuyangzhang-sde/uiuc-housing-serach-website) | Housing search platform serving **500** students comparing **1,100+** Champaign-Urbana floor plans by price per bedroom. Unified **580+** properties into one dataset. Built map-based search, filtering, and property details, with shared TypeScript logic across the Next.js website and a React Native / Expo client. | Next.js · React Native · Expo · TypeScript · FastAPI · Supabase · MapLibre · Playwright · SQLite · Vercel · Railway · GitHub Actions · CI/CD |
+| **WeatherLens**<br>[GitHub](https://github.com/shuyangzhang-sde/WeatherLens) | Front-end engineering in a native Android weather app: coordinated Today / Forecast / Cities navigation, persistent city selection, live weather API integration, and validated Gemini-generated user-level color themes. | Java · Android XML · Material Components · SQLite · REST APIs · Gemini |
 | **Distributed E-Commerce System** | Microservices marketplace eliminating overselling at **5,000+** QPS during Prime Day. Reduced peak database write load by **60%**, sustained **99.9%** uptime, and maintained **80%** unit test coverage. | Spring Boot · Spring Cloud · Spring Cloud Gateway · OpenFeign · Redis · Lua · RocketMQ · Angular · React · Next.js · TypeScript · Tailwind CSS · Docker · Kubernetes · AWS EC2 · JUnit · Mockito |
 | **Tang Matcha House** | Full-stack ordering system managing **200+** orders/week, with real-time status updates and pickup verification. Automated infrastructure and CI/CD accelerated rollouts by **60%**. | React · TypeScript · RESTful APIs · API Gateway · Lambda · DynamoDB · WebSocket · AWS CDK · CloudFormation · CI/CD · Vitest · Supertest |
 
@@ -41,7 +43,7 @@ I enjoy building products at the intersection of **AI, backend systems, and full
 
 | Category | Technologies |
 |---|---|
-| **Languages & Frontend** | Java, Python, C, C#, C++, TypeScript/JavaScript, React.js, Next.js, Angular, Tailwind CSS, HTML, CSS3 |
+| **Languages & Frontend** | Java, Python, C, C#, C++, TypeScript/JavaScript, React.js, Next.js, React Native, Expo, Vue.js, Angular, Tailwind CSS, HTML, CSS3, Android XML, Material Components |
 | **Backend & APIs** | Spring Boot, Spring Cloud, Node.js/Express, FastAPI/Flask, Django, RESTful APIs, gRPC, WebSockets, OpenFeign, RocketMQ, Kafka, Flink, JUnit, Mockito, Vitest, Supertest, Playwright |
 | **Databases** | SQL/NoSQL Schema Design, MySQL, PostgreSQL, MongoDB, Redis, DynamoDB, SQLite, Elasticsearch, OpenSearch, pgvector, Supabase |
 | **AI / LLM** | RAG, LangChain, LangGraph, LangSmith, Haystack, MCP, Qdrant, Cohere, Vector Search, Embeddings, Tool Calling, Guardrails, Human-in-the-Loop, LiveKit, AWS Bedrock, Docling, Information Retrieval, NLP |
